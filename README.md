@@ -17,5 +17,5 @@ Building a plagiarism detector that examines a text file and performs binary cla
 ### Notebook 3: Train and Deploy Your Model in SageMaker
 - Upload your train/test feature data to S3.
 - Define a binary classification model and a training script.
-- Train your model and deploy it using SageMaker. **In choosing a model for this problem of binary classification I trained a pytorch NN.**
+- Train your model and deploy it using SageMaker. **In choosing a model for this problem of binary classification I trained a NN using pytorch.**
 - Evaluate your deployed classifier.
